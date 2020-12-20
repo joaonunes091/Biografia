@@ -82,3 +82,12 @@ footer {
 		flex-direction: column;
 	}
 }
+
+a:hover {
+	color: darkred;
+}
+article a {
+	color: #080707;
+	font-style: unset;
+	line-height: 1.5;
+}
