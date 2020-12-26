@@ -55,9 +55,9 @@ article {
 		float: left
 	}
 
-blockquote{
+/*blockquote{
 	float: left;
-}
+}*/
 
 
 /* Style the footer */
@@ -84,10 +84,25 @@ footer {
 }
 
 a:hover {
-	color: darkred;
+	color: #151515;
+}
+a:link {
+	text-decoration: none
 }
 article a {
 	color: #080707;
 	font-style: unset;
 	line-height: 1.5;
+}
+
+article table{
+	padding-bottom: 20px;
+}
+
+article{
+	background-color: white;
+}
+
+article a{
+	color: #666;
 }
