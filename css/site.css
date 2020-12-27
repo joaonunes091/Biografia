@@ -106,3 +106,15 @@ article{
 article a{
 	color: #666;
 }
+
+sideNav {
+	background-color: #6c757d;
+}
+
+a {
+	color: #040352;
+}
+
+section, section article{
+	background-color: #ccc;
+}

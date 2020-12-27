@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
 * Copyright 2013-2020 Start Bootstrap
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color:#bd5d38;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+    background-color: #6c757d !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6203,7 +6203,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+    border-color: #040352 !important;
 }
 
 .border-secondary {
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #040352 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10078,9 +10078,9 @@ p.lead {
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
-.social-icons .social-icon:hover {
-  background-color: #bd5d38;
-}
+    .social-icons .social-icon:hover {
+        background-color: #040352;
+    }
 
 .dev-icons {
   font-size: 3rem;
