@@ -87,8 +87,9 @@ a:hover {
 	color: #151515;
 }
 a:link {
-	text-decoration: none
+	text-decoration: none;
 }
+
 article a {
 	color: #080707;
 	font-style: unset;
@@ -288,4 +289,8 @@ section, section article{
 		position: static;
 		margin-top: 30px;
 	}
+}
+
+body {
+	background-color: #ccc;
 }
